@@ -18,7 +18,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.leejongtae.fokin-weather"
     },
     "android": {
       "adaptiveIcon": {
